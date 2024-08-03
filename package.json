@@ -1,0 +1,16 @@
+{
+  "name": "sampledeployement",
+  "version": "1.0.0",
+  "description": "Trail code for backend deployement",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nidhi Singh",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
